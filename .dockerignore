@@ -1,0 +1,5 @@
+virtualEnv/
+.git/
+.snyk
+__pycache__/
+*.pyc
